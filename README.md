@@ -1,1 +1,6 @@
-##This is a simple for a Book swap concept where users can exchange the books with they have.
+# Book swap
+
+## Project Description
+
+Welcome to the Book Swap concept! This is a simple platform where users can exchange books they have with others. Sharing and swapping books can be a great way to discover new titles and connect with fellow book enthusiasts.
+
